@@ -11,6 +11,9 @@
 tanzu version
 ```
 ## Cluster Creation
+Two ways to create a Unamanged cluster
+- Creating on kind cluster
+- [Install to existing cluster](https://tanzucommunityedition.io/docs/v0.11/ref-unmanaged-cluster/#:~:text=SkipPreflight%3A%20false-,Install%20to%20existing%20cluster,-%C2%B6)
 ```
 tanzu unmanaged-cluster create CLUSTER_NAME
 ```
