@@ -7,6 +7,9 @@
 - Installed kubectl
 - Installed TCE
 
+```
+tanzu version
+'''
 ## Cluster Creation
 ```
 tanzu unmanaged-cluster create CLUSTER_NAME
