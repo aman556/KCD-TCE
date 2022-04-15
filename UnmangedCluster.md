@@ -5,7 +5,7 @@
 ### Prerequisites 
 - Installed Docker 
 - Installed kubectl
-- Installed TCE
+- [Installed TCE](https://tanzucommunityedition.io/docs/v0.11/cli-installation/)
 
 ```
 tanzu version
