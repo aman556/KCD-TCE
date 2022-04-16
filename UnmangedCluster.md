@@ -8,6 +8,10 @@
 - [Installed TCE](https://tanzucommunityedition.io/docs/v0.11/cli-installation/)
 
 ```
+wget  https://github.com/vmware-tanzu/community-edition/releases/download/v0.11.0/tce-linux-amd64-v0.11.0.tar.gz
+tar xvzf tce-linux-amd64-v0.11.0.tar.gz 
+cd tce-linux-amd64-v0.11.0.tar.gz
+./install.sh
 tanzu version
 ```
 ## Cluster Creation
